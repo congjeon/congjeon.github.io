@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fWwIJOfJwAvp74ENVfGNeu5Lf7" />
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/node@6/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/code/projects/danishin_com" value="1461484252000" />
+        <entry key="$USER_HOME$/code/projects/danishin_com_stock_prediction" value="1462698574000" />
+        <entry key="$USER_HOME$/code/projects/employee_scheduler/employee_scheduler" value="1466747503000" />
+        <entry key="$USER_HOME$/code/projects/globl/globl_server" value="1445933747000" />
+        <entry key="$USER_HOME$/code/projects/globl/server/globl_server" value="1455117054000" />
+        <entry key="$USER_HOME$/code/projects/globl/website/globl_io" value="1459005210000" />
+        <entry key="$USER_HOME$/code/projects/shiftee/app_shiftee_io" value="1468206837000" />
+        <entry key="$USER_HOME$/code/projects/spanglemall" value="1470131043000" />
+        <entry key="$USER_HOME$/code/projects/stock_prediction" value="1465021854000" />
+        <entry key="$USER_HOME$/code/projects/success_academy" value="1470824585000" />
+        <entry key="$USER_HOME$/code/scala/ML/PredictionIO/Recommendation" value="1460723762000" />
+        <entry key="$USER_HOME$/code/scala/ML/PredictionIO/TextClassification" value="1460701711000" />
+        <entry key="$USER_HOME$/code/scala/MachineLearning/PredictionIO/Classification" value="1460964209000" />
+        <entry key="$USER_HOME$/code/scala/MachineLearning/PredictionIO/LeadScoring" value="1461131535000" />
+        <entry key="$USER_HOME$/code/scala/MachineLearning/PredictionIO/SimilarProduct" value="1461040940000" />
+        <entry key="$USER_HOME$/code/scala/MachineLearning/Spark/StockPrediction" value="1462007421000" />
+        <entry key="$USER_HOME$/code/scala/MachineLearningSmile" value="1460105946000" />
+        <entry key="$USER_HOME$/code/scala/Spark/SparkTutorial" value="1461756313000" />
+        <entry key="$USER_HOME$/code/scala/Tutorials/PlayHerokuTutorial" value="1442291544000" />
+        <entry key="$USER_HOME$/code/scala/Tutorials/PlayMonadTransformers" value="1443105653000" />
+        <entry key="$USER_HOME$/code/scala/Tutorials/ReactiveStocks" value="1442297514000" />
+        <entry key="$USER_HOME$/code/scala/Tutorials/hello-akka" value="1444359950000" />
+        <entry key="$USER_HOME$/code/scala/Tutorials/hello-slick-3.0" value="1444894601000" />
+        <entry key="$USER_HOME$/code/scala/akka-sample-fsm-scala" value="1457677742000" />
+        <entry key="$USER_HOME$/tmp/PredictionIO/examples/experimental/scala-stock" value="1462022761000" />
+        <entry key="$USER_HOME$/tmp/SBTClientServerDemo" value="1468995167000" />
+        <entry key="$USER_HOME$/tmp/demo" value="1462698447000" />
+        <entry key="$USER_HOME$/tmp/helloo/heddd" value="1460105525000" />
+        <entry key="$USER_HOME$/tmp/orderbook-dynamics" value="1462008670000" />
+        <entry key="$USER_HOME$/tmp/play-multidomain-seed" value="5871493084000" />
+        <entry key="$USER_HOME$/tmp/play-slick-codegen" value="1445000968000" />
+        <entry key="$USER_HOME$/tmp/play-websocket-scala" value="1463552122000" />
+        <entry key="$USER_HOME$/tmp/play-with-scalajs-example" value="1468208484000" />
+        <entry key="$USER_HOME$/tmp/scala/play-scala" value="1441693600000" />
+        <entry key="$USER_HOME$/tmp/scalajs-spa-tutorial" value="1468205243000" />
+        <entry key="$USER_HOME$/tmp/scalajs_tutorial" value="1468202471000" />
+        <entry key="$USER_HOME$/tmp/slick-codegen-example" value="1444995093000" />
+        <entry key="$USER_HOME$/tmp/webrtc-automator" value="1464666678000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/code/projects/webrtc-automator" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
